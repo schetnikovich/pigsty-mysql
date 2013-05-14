@@ -1,0 +1,17 @@
+{
+  "name": "pigsty-mysql",
+  "version": "0.1.0",
+  "description": "Output plugin for pigsty => mysql",
+  "main": "./lib/pigsty-mysql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/threatstack/pigsty-plugin",
+  "author": "Threat Stack, Inc",
+  "license": "GPLv3",
+  "dependencies": {
+    "debug": "~0.7.2",
+    "pigsty-plugin": "~0.1.0",
+    "mysql-native": "~0.4.7"
+  }
+}
