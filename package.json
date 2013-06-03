@@ -12,6 +12,7 @@
   "dependencies": {
     "debug": "~0.7.2",
     "pigsty-plugin": "~0.1.0",
-    "mysql-native": "~0.4.7"
+    "mysql-native": "~0.4.7",
+    "moment": "~2.0.0"
   }
 }
