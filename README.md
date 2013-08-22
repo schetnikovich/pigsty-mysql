@@ -33,7 +33,6 @@ output: {
 
 #### Known Issues
 
-* mysql reconnection not handled 
 * tcp options table not being inserted
 
 #### Reporting
